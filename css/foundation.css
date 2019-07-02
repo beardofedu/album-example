@@ -6481,7 +6481,7 @@ a.thumbnail {
 
 .social-footer {
   padding: 1rem;
-  background: #8a8a8a;
+  background: #ffffff;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -6499,7 +6499,7 @@ a.thumbnail {
 
 .social-footer .social-footer-icons .fa {
   font-size: 1.3rem;
-  color: #fefefe;
+  color: #000000;
 }
 
 .social-footer .social-footer-icons .fa:hover {
