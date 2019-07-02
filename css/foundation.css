@@ -6386,7 +6386,7 @@ a.thumbnail {
           
           .card-product-hover-price {
             margin: 0.5rem 0;
-            font-weight: 700;
+            /** font-weight: 700; **/
             color: #182732;
             font-size: #182732;
           }
@@ -6458,7 +6458,7 @@ a.thumbnail {
           .hero-section {
             background: url("https://images.pexels.com/photos/1068523/pexels-photo-1068523.jpeg") 50% no-repeat;
             background-size: cover;
-            height: 60vh;
+            height: 40vh;
             text-align: center;
             display: -webkit-flex;
             display: -ms-flexbox;
