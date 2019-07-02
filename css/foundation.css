@@ -6361,6 +6361,7 @@ a.thumbnail {
   -webkit-animation-delay: 700ms !important;
           animation-delay: 700ms !important; }
 
+/** Hover Card configuration **/
 
 .card-product-hover-title {
   font-size: 1.4rem;
@@ -6451,7 +6452,8 @@ a.thumbnail {
           .card-product-hover.hover a:nth-child(3) {
             transition-delay: 0.2s;
           }
-          
+  
+          /** Hero (top image) configuration **/
 
           .hero-section {
             background: url("https://images.pexels.com/photos/1068523/pexels-photo-1068523.jpeg") 50% no-repeat;
