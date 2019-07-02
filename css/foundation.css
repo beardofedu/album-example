@@ -6453,7 +6453,7 @@ a.thumbnail {
             transition-delay: 0.2s;
           }
   
-          /** Hero (top image) configuration **/
+          /** Banner configuration **/
 
           .hero-section {
             background: url("https://images.pexels.com/photos/1068523/pexels-photo-1068523.jpeg") 50% no-repeat;
@@ -6477,7 +6477,6 @@ a.thumbnail {
           }
           
 /** Footer configuration **/
-
 
 .social-footer {
   padding: 1rem;
